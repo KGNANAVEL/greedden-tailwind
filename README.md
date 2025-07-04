@@ -11,7 +11,7 @@ GreenDen is a modern, responsive website built with **Tailwind CSS**, designed f
 
 ## 🚀 Live Demo
 
-Check out the live version here: [https://yourusername.github.io/greenden](https://yourusername.github.io/greenden)
+Check out the live version here: https://kgnanavel.github.io/greedden-tailwind/
 
 ---
 
@@ -86,15 +86,6 @@ This will generate an optimized version of your project in the `dist/` folder.
 * ✅ Light and fast build
 * ✅ SEO-friendly structure
 
----
-
-## 📸 Screenshots
-
-| Desktop                                 | Mobile                                |
-| --------------------------------------- | ------------------------------------- |
-| ![Desktop](./assets/screen-desktop.png) | ![Mobile](./assets/screen-mobile.png) |
-
----
 
 ## 🧑‍💻 Contributing
 
@@ -116,17 +107,10 @@ git push origin feature/my-feature
 # Open a Pull Request 🚀
 ```
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE).
-
----
 
 ## 💬 Contact
 
-Created with 🌱 by [Your Name](https://github.com/yourusername)
+Created with 🌱 by https://kgnanavel.github.io/greedden-tailwind/
 
 Have questions? DM on Twitter [@yourhandle](https://twitter.com/yourhandle)
 
