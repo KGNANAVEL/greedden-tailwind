@@ -1,4 +1,4 @@
-Sure! Here's a complete `README.md` file for a GitHub project named **GreenDen**, a modern responsive website built using **Tailwind CSS**. This template assumes it's a UI/landing page for a plant shop or eco-friendly brand. You can customize sections as needed:
+gitSure! Here's a complete `README.md` file for a GitHub project named **GreenDen**, a modern responsive website built using **Tailwind CSS**. This template assumes it's a UI/landing page for a plant shop or eco-friendly brand. You can customize sections as needed:
 
 ---
 
